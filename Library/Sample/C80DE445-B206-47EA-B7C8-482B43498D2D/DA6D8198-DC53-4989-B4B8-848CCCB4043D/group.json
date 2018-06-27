@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "DA6D8198-DC53-4989-B4B8-848CCCB4043D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F89F1B7-894D-4530-806E-357E5126447E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5BCA303-5D43-433D-A7BA-805AB07D6945",
+    "height": 200,
+    "width": 300,
+    "x": 38,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1A259B4D-E204-44D2-9B3F-6C94CF08D0B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F510C74F-3B51-4B8C-89D4-18717BB16857"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BBE29C5-EB0A-4065-BF4F-C37D150497D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60931076-6CF3-4021-8D16-DC6B35A32A83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4FA6079-CB24-4988-A995-DBBEA968E203"
+    }
+  ],
+  "name": "로그인폼",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D007EAA-991A-4A43-89F1-D014062FFE09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

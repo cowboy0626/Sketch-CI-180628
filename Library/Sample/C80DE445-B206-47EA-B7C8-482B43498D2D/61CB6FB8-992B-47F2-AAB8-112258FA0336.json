@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "61CB6FB8-992B-47F2-AAB8-112258FA0336",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2243F9A-82E0-45D3-93C5-97C442A5C162",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3244AF37-F02A-48F4-B9D3-8EC2C16D3318",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "프레임/타이틀바/기본",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DF37703-EF54-419B-B6F8-7E31AA0E78C7",
+      "overrideName": "394E73A8-1A42-4EBC-A87E-76B7F1C5DF35_stringValue",
+      "value": "로그인"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3195C3A5-D5F6-43FD-A1B9-DDBDE679AFD6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AADA3066-EBE2-4638-9171-E4A86CADE18B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

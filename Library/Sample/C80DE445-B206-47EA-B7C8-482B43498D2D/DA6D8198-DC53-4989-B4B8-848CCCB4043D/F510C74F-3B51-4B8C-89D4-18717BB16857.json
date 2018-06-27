@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F510C74F-3B51-4B8C-89D4-18717BB16857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA2B719C-3B52-40D1-9BEA-7F2E1132E71F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E27982F-3BF2-46D8-A604-ABDD8256F8BF",
+    "height": 48,
+    "width": 300,
+    "x": 0,
+    "y": 72
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "폼/입력창",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDBBB46B-8786-441E-AC5D-0D20E338AD52",
+      "overrideName": "1628A83B-DD5A-48F1-A6E5-A698126F4F75_stringValue",
+      "value": "비밀번호를 입력하세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F0CC454-8F44-4458-B701-FEA7DE7DDA8C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0206F6FD-EFEF-440C-B053-7BFFB1949FA8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
