@@ -1,0 +1,107 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3C33AB82-D4D9-49F0-9F43-47B19998C5E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "883F317F-4725-4B7B-88A6-BC2B3F0B02C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EBC03EAF-46A3-4480-B40B-AFA1FE2A9578",
+    "height": 128,
+    "width": 128,
+    "x": 188,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9ED69180-3D3A-4EC2-AB63-513A181FB8E1"
+    }
+  ],
+  "name": "Light Grey/Border",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8901960784313725,
+          "green": 0.8901960784313725,
+          "red": 0.8901960784313725
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "6D8FFB00-9CDE-43B9-B162-E779636AE93D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7155877976190477,
+          "green": 0.6231450991690685,
+          "red": 0.0921025645451915
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "F7DBCA3E-4C4A-48DF-8975-29A57F4E8825",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 128,
+            "enabled": 1,
+            "modelID": "constraint_5a7fe4b0-e449-4fd5-81da-3719eb6e568b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 128
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_34d396d3-58a0-4149-bbee-ab18a3d93714",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "7C92CAA7-994C-4D5F-9FF6-FB09D9583C41",
+  "name": "Light Grey/Fill",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9182079081632653,
+          "green": 0.9182079081632653,
+          "red": 0.9182079081632653
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8886585884353742,
+          "green": 0.8886585884353742,
+          "red": 0.8886585884353742
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "7C92CAA7-994C-4D5F-9FF6-FB09D9583C41",
+    "startDecorationType": 0
+  }
+}
