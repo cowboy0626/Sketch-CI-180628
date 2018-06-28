@@ -3,6 +3,13 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.06212615757097308,
+        "green": 0.7727731717687075,
+        "red": 0.3963281926106346
+      }
     ],
     "gradients": [
     ],
