@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "E03630B5-53D4-432A-8BAB-AD82A52AB7F6",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "111D949D-42F6-42A0-A89D-4F9E9C865D80",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,40 +20,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 155,
+    "y": -46
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -329,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "111D949D-42F6-42A0-A89D-4F9E9C865D80"
-    },
-    {
-      "class": "artboard",
-      "id": "3772B9DF-EF10-4AF6-BC24-9F729204A598"
+      "class": "symbolInstance",
+      "id": "A0CAC4C2-93FE-43C8-A606-546FFF61AAA0"
     }
   ],
-  "name": "Service",
+  "name": "Introduction",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -55,7 +69,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -272,
+    "base": 0,
     "guides": [
     ]
   }
