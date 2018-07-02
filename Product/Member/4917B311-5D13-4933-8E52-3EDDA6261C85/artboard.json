@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "55F85423-F31C-4014-A704-B69858A8A240",
+  "do_objectID": "4917B311-5D13-4933-8E52-3EDDA6261C85",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 786,
+    "x": 311,
     "y": 68
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,10 +40,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A8697179-F863-4249-AF5B-87E5C41211EE"
+    },
+    {
+      "class": "text",
+      "id": "8943B5FB-3DE2-4223-8403-18917FEC4925"
+    },
+    {
+      "class": "group",
+      "id": "B5F1CF6F-D3CD-4AF2-A634-BEC195924AC6"
+    }
   ],
-  "name": "Sign Up",
+  "name": "Sign In",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

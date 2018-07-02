@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "12EC18CB-D2B8-461D-A9E9-CE360B03E0BE",
+  "do_objectID": "0F6D6EBF-E397-479D-847B-B2DFE9CA90E1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9BD40290-1A6A-4008-BD9D-C22991FFCD2A",
+    "do_objectID": "1059C62B-0F46-4541-9022-F932C8B2CA2B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2881651F-D770-4E8C-85CD-1DE3EE32F49E",
-    "height": 56,
-    "width": 375,
+    "do_objectID": "ECC40BB2-14A2-4331-8449-0905F057721C",
+    "height": 24,
+    "width": 327,
     "x": 0,
-    "y": 20
+    "y": 49
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,15 +26,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "프레임/타이틀바/기본",
+  "name": "폼/여백",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "190B6CF4-5FFF-4612-89C5-26A886303933",
-      "overrideName": "394E73A8-1A42-4EBC-A87E-76B7F1C5DF35_stringValue",
-      "value": "가격체계"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,12 +37,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AF481B6A-FCC7-4026-84AA-B4FC3509C1D3",
+    "do_objectID": "941FCFCC-F006-4B23-B893-8D42E9B333C9",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "63EC35C5-8ED8-435B-B749-5CBCD0B289A2",
+  "symbolID": "B51821BC-CCD3-4269-BACE-76EEB5D2DF1A",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
